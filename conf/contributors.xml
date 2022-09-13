@@ -85,6 +85,12 @@ Please keep the list in alphabetical order by last name!
  github="a-andre"/>
 <contributor
  name="Maite Aranes"
+ work="Professor, IUMA, Universidad de Zaragoza"
+ location="Gibbet Hill Rd, Coventry CV4 7AL, UK"
+ description="number field ideal utilities"
+ trac="mtaranes"/>
+ <contributor
+ name="Enrique Artal"
  work="graduate student, Warwick Mathematics Institute, University of Warwick"
  location="Gibbet Hill Rd, Coventry CV4 7AL, UK"
  description="number field ideal utilities"
